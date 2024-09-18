@@ -22,7 +22,6 @@
 ##### Table of Contents
 
 - [ Overview](#-overview)
-- [ Features](#-features)
 - [ Repository Structure](#-repository-structure)
 - [ Modules](#-modules)
 - [ Getting Started](#-getting-started)
@@ -39,13 +38,7 @@
 
 ## Overview
 
-<code>❯ REPLACE-ME</code>
-
----
-
-## Features
-
-<code>❯ REPLACE-ME</code>
+<code>❯ React app that let's you search Github by username and shows user repositories, commits and files in each repository and counts the number of lines in each file</code>
 
 ---
 
@@ -170,14 +163,6 @@ Execute the test suite using the following command:
 ```sh
 ❯ npm test
 ```
-
----
-
-## Project Roadmap
-
-- [x] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
 
 ---
 
